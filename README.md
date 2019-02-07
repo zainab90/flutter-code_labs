@@ -1,6 +1,6 @@
 # code_labs
 
-A new Flutter project.
+A new Flutter project, which is a design of Firendly-Chat UI appliction .
 
 ## Getting Started
 
